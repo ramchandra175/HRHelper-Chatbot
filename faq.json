@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What are the office hours?",
+        "answer": "Our office hours are from 9 AM to 6 PM, Monday to Friday."
+    },
+    {
+        "question": "How do I contact HR?",
+        "answer": "You can email hr@example.com or visit the HR desk."
+    },
+    {
+        "question": "Is work from home allowed?",
+        "answer": "Work from home is allowed with prior approval from your reporting manager."
+    },
+    {
+        "question": "Do you have health insurance?",
+        "answer": "Yes, all full-time employees are covered under company health insurance."
+    }
+]
